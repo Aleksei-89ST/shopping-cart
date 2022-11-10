@@ -14,13 +14,25 @@
     {
       "id": 3,
       "name": "Banana",
-      "price": 1.05,
+      "price": 2.05,
       "imgUrl": "/imgs/banana.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
+      "name": "Old Car",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "imgUrl": "https://media.istockphoto.com/id/176793256/photo/red-car-in-havana-sunset.jpg?s=612x612&w=0&k=20&c=i6L_wDLwiv4ya0P4hPH7Am7FHKI8eFZqk3Vkz0DpB08="
+    }, 
+    {
+      "id": 5,
+      "name": "Furniture",
+      "price": 1700,
+      "imgUrl": "https://media.gq-magazine.co.uk/photos/635beedd6fdc899561adc161/master/w_2560,h_1280,c_limit/221027_FRN_LivingRoom_FeaturedImage.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sneakers",
+      "price": 400,
+      "imgUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-QS-Flash-White-Argon-Blue-Flash-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1658842672&q=75"
     }
   ]
